@@ -1,5 +1,8 @@
 # Ead-documentaion
-Ead Documentação
+## Objetivo: desenvolver uma api para gerir um sistema de educação a distância. 
+### Ead Documentação
+
+
 
 ## Micro serviços
   - [Course](https://github.com/DeadRon/cuorse)
