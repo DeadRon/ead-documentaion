@@ -5,17 +5,15 @@
 
 ### Diagrama de instâncias
 
-### Diagrama de Arquitetura
-
 ### Regras de negócio
-- ### Cadastro de usuário estudante
-- ### Cadastro de curso
-- ### Cadastro de usuário instrutor
-- ### Cadastro de módulos de um curso
-- ### Cadastro de lições de um curso
-- ### Exclusão de um curso
-- ### Exclusçao em cascata de módulos de um curso
-- ### Exclusçao em cascata de lições dos módulos do curso
+- ### 1. Cadastrar usuário estudante
+- ### 2. Cadastrar curso
+- ### 3. Cadastrar usuário instrutor
+- ### 4. Cadastrar módulo de um curso
+- ### 5. Cadastrar lição de um módulo de um curso
+- ### 6. Excluir um curso
+  - ### 6.1 Excluir em cascata módulos de um curso excluído
+  - ### 6.2 Excluir em cascata lições de um módulo excluído
 
 ### Micro serviços
   - [Course](https://github.com/DeadRon/cuorse)
@@ -25,6 +23,8 @@
   - [Notification](https://github.com/DeadRon/ead-notification)
 
 ### Tecnologias
+
+### Diagrama de Arquitetura
 
 ### Resumos das semanas
 
